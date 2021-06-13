@@ -8,3 +8,4 @@ A Collection of Python Programs that captures the essence of Coding in Python
 <p> 2_large accepts a list of integers and prints two of the largest numbers that can be formed.</p>
 <p> Random_date prints a random date in dd-mm-yyyy format between two dates. </p>
 <p> knapsack solves the fractional knapsack problem. </p>
+<p> Finds all subsets of a set.</p>
