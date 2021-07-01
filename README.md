@@ -9,3 +9,4 @@ A Collection of Python Programs that captures the essence of Coding in Python
 <p> Random_date prints a random date in dd-mm-yyyy format between two dates. </p>
 <p> knapsack solves the fractional knapsack problem. </p>
 <p> Finds all subsets of a set.</p>
+<P>Equivalent Prime is a problem based on CodeVita where we basically find equivalent primes in different sets of values.</P>
