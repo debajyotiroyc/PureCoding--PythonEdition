@@ -10,3 +10,4 @@ A Collection of Python Programs that captures the essence of Coding in Python
 <p> knapsack solves the fractional knapsack problem. </p>
 <p> Finds all subsets of a set.</p>
 <P>Equivalent Prime is a problem based on CodeVita where we basically find equivalent primes in different sets of values.</P>
+<p>Vertical Words prints the words in a string vertically.</p>
